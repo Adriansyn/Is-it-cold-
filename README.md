@@ -13,7 +13,9 @@ The search history will be saved in local storage. If you search a city that you
 Screenshots
 
 ![](./images/1.jpg)
+City Weather Forecast
 ![](./images/2.jpg)
+Local Storage
 ![](./images/3.jpg)
 
 
